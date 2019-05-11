@@ -1,0 +1,8 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\bin\Debug\ex6.6.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\bin\Debug\ex6.6.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\bin\Debug\ex6.6.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\obj\Debug\ex6._6.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\obj\Debug\ex6._6.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\obj\Debug\ex6.6.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\obj\Debug\ex6.6.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.6\ex6.6\obj\Debug\ex6.6.pdb

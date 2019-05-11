@@ -1,0 +1,21 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\bin\Debug\ex6.1.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\bin\Debug\ex6.1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\bin\Debug\ex6.1.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\obj\Debug\ex6._1.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\obj\Debug\ex6._1.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\obj\Debug\ex6.1.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\obj\Debug\ex6.1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\obj\Debug\ex6.1.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\ex6.1\obj\Debug\ex6.1.csprojResolveAssemblyReference.cache
+E:\ИАС-18-2\ex6.1\ex6.1\bin\Debug\ex6.1.exe.config
+E:\ИАС-18-2\ex6.1\ex6.1\obj\Debug\ex6.1.exe
+E:\ИАС-18-2\ex6.1\ex6.1\obj\Debug\ex6.1.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\bin\Debug\ex6.1.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\obj\Debug\ex6.1.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\obj\Debug\ex6.1.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\bin\Debug\ex6.1.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\bin\Debug\ex6.1.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\obj\Debug\ex6.1.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\obj\Debug\ex6._1.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\obj\Debug\ex6._1.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.1\ex6.1\obj\Debug\ex6.1.csproj.GenerateResource.Cache

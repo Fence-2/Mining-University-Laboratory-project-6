@@ -1,0 +1,12 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\bin\Debug\ex6.13.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\bin\Debug\ex6.13.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\bin\Debug\ex6.13.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6.13.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6._13.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6._13.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6.13.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6.13.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6.13.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №6\ex6.13\ex6.13\bin\Debug\ex6.13.exe.config
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6.13.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №6\ex6.13\ex6.13\obj\Debug\ex6.13.pdb
